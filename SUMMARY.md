@@ -36,3 +36,7 @@
     * [Color Genetics](resources/learn/mendelian-genetics/color-genetics.md)
 * [🔗 Links](resources/links.md)
 * [⛑ Support](resources/support.md)
+
+***
+
+* [Hex Pixel Gaming](hex-pixel-gaming.md)
