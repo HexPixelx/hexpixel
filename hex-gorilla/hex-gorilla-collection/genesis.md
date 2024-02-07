@@ -22,7 +22,7 @@ Our [Genesis collection](genesis.md#the-collection) is made up of [100 unique he
 
 ### The Science of Color
 
-The most intriguing aspect of using hexadecimal color codes to highlight our project, is there are  over 16 million combinations that solicit emotion, memories, or any number of real reactions. In Hex Gorilla Genesis we worked closely with [The Official Registry of Color](https://color-register.org/) and the [International Color Consortium](https://color.org) to curate a collection of colors that we feel have a particular significance.&#x20;
+The most intriguing aspect of using hexadecimal color codes to highlight our project, is there are over 16 million combinations that solicit emotion, memories, or any number of real reactions. In Hex Gorilla Genesis we worked closely with [The Official Registry of Color](https://color-register.org/) and the [International Color Consortium](https://color.org) to curate a collection of colors that we feel have a particular significance.
 
 ![Cola](<../../.gitbook/assets/11 (2).png>) ![Green Slime](../../.gitbook/assets/22.png) ![Ferrari Red](../../.gitbook/assets/31.png) ![Dollar Bill](../../.gitbook/assets/36.png)
 
@@ -72,19 +72,17 @@ After taking the advice of Dr. Phil Green of the ICC, we started our research us
 
 Launching our collection on [Terra blockchain](https://terra.money) was an amazing experience. It was one of those things that reminded us of what the early crypto sphere looked like when we first began our journey in 2017. This was an amazing new ecosystem that somehow, in 18 months, had gone all the way up to 8th on the marketcap and TVL listing on [coinmarketcap.com](https://coinmarketcap.com).
 
-Then, probably the most important part of the Terra experience was meeting and collaborating with the [Talis Protocol](https://talis.art) NFT marketplace. Meeting the team over there and connecting on a personal level brought so much to the experience. The support and attention that these superstars gave to the new Terra collection and to our team made an impression on us that will never leave.&#x20;
+Then, probably the most important part of the Terra experience was meeting and collaborating with the [Talis Protocol](https://talis.art) NFT marketplace. Meeting the team over there and connecting on a personal level brought so much to the experience. The support and attention that these superstars gave to the new Terra collection and to our team made an impression on us that will never leave.
 
 {% hint style="success" %}
-### **The ratio of "**<mark style="color:purple;">**Legends**</mark>**" to "**<mark style="color:blue;">**Epics**</mark>**" and "**<mark style="color:green;">**Commons**</mark>**" is almost 1/1🔥**
+#### **The ratio of "**<mark style="color:purple;">**Legends**</mark>**" to "**<mark style="color:blue;">**Epics**</mark>**" and "**<mark style="color:green;">**Commons**</mark>**" is almost 1/1🔥**
 {% endhint %}
 
 ![YouTube Red](../../.gitbook/assets/12.png) ![Shakespeare](../../.gitbook/assets/genesis-shakespeare-design-mockup@2x.png) ![Coffee](../../.gitbook/assets/1.png) ![Crystal](<../../.gitbook/assets/2 (5).png>) ![Halloween Orange](<../../.gitbook/assets/3 (2).png>) ![Amazon](<../../.gitbook/assets/4 (4).png>)
 
-You can currently find Hex Gorilla Genesis on the secondary market with [Talis Protocol](https://talis.art). That being said, our project is one that is known for its users and community not buying to sell, but holding to commit. **You are a part owner in our organization if you have any HG in your possession.**&#x20;
+You can currently find Hex Gorilla Genesis on the secondary market with [Talis Protocol](https://talis.art). That being said, our project is one that is known for its users and community not buying to sell, but holding to commit. **You are a part owner in our organization if you have any HG in your possession.**
 
 ![Blood](../../.gitbook/assets/14.png) ![Outrageous Orange](<../../.gitbook/assets/15 (1).png>) ![Awesome](../../.gitbook/assets/16.png) ![Absolute Zero](../../.gitbook/assets/19.png) ![Interdimensional](../../.gitbook/assets/20.png)
-
-
 
 The long road that we have gone down has led us to very interesting conclusions. NFTs are an amazing avenue to showcase your artwork and help entice a community, but the utility limitations continue to be the barrier holding back it's eventual success. That is why we have begun to see things differently. Do things differently, and make the impossible differently.
 

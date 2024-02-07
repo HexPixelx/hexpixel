@@ -1,6 +1,8 @@
 # Table of contents
 
-* [Hex Gorilla](README.md)
+* [Hex Pixel Gaming](README.md)
+* [Pixel Token](pixel-token.md)
+* [Hex Gorilla](<README (1).md>)
   * [🖼 Hex Gorilla Collection](hex-gorilla/hex-gorilla-collection/README.md)
     * [⛅ Genesis](hex-gorilla/hex-gorilla-collection/genesis.md)
     * [🌤 Alpha](hex-gorilla/hex-gorilla-collection/alpha/README.md)
@@ -36,7 +38,3 @@
     * [Color Genetics](resources/learn/mendelian-genetics/color-genetics.md)
 * [🔗 Links](resources/links.md)
 * [⛑ Support](resources/support.md)
-
-***
-
-* [Hex Pixel Gaming](hex-pixel-gaming.md)
