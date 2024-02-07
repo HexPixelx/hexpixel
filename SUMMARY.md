@@ -25,16 +25,10 @@
     * [⚡ Get Involved](hex-gorilla/hex-pixel-universe/get-involved/README.md)
       * [🎮 Be a part of Hex Pixel](hex-gorilla/hex-pixel-universe/get-involved/be-a-part-of-hex-pixel.md)
   * [🏢 DAO](hex-gorilla/dao.md)
-
-## Roadmap
-
-* [🚦 The Journey](roadmap/the-journey.md)
-
-## Resources
-
-* [👨🎓 Learn](resources/learn/README.md)
-  * [🟢 Hexadecimal](resources/learn/hexadecimal.md)
-  * [Mendelian Genetics](resources/learn/mendelian-genetics/README.md)
-    * [Color Genetics](resources/learn/mendelian-genetics/color-genetics.md)
-* [🔗 Links](resources/links.md)
-* [⛑ Support](resources/support.md)
+  * [🚦 The Journey](readme/the-journey.md)
+  * [👨🎓 Learn](readme/learn/README.md)
+    * [🟢 Hexadecimal](readme/learn/hexadecimal.md)
+    * [Mendelian Genetics](readme/learn/mendelian-genetics/README.md)
+      * [Color Genetics](readme/learn/mendelian-genetics/color-genetics.md)
+  * [🔗 Links](readme/links.md)
+  * [⛑ Support](readme/support.md)
